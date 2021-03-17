@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HomeworkOne</string>
+    <string name="title">Hometask no. 1</string>
+    <string name="sendBtn">Send</string>
+    <string name="write_your_name">Write your name...</string>
+    <string name="choose_color">Choose color:</string>
+    <string name="change_text">Change text style </string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="yellow">Yellow</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+    <string name="surname">Surname</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="password">Password</string>
+    <string name="email">Email address</string>
+    <string name="title_2">Title</string>
+</resources>
